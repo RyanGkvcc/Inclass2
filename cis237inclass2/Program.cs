@@ -10,6 +10,7 @@ namespace cis237inclass2
     {
         static void Main(string[] args)
         {
+            Factorial factorial = new Factorial();
         }
     }
 }
